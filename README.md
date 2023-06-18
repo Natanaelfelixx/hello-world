@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=exercício&message=Cubos Academy&color=C71585&style=for-the-badge"/>  <img src="https://img.shields.io/static/v1?label=resposta&message=Natanael Felix&color=30130a&style=for-the-badge"/>
 </div>
+<br>
 
 - [Sobre](#sobre)
 - [Feature](#feature)
