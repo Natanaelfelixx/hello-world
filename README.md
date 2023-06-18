@@ -2,9 +2,9 @@
 
 #### Exercício - Setup de ferramentas
 
--[Sobre](#Sobre)
--[Feature](#Feature)
--[Tecnologias](#Tecnologias)
+- [Sobre](#Sobre)
+- [Feature](#Feature)
+- [Tecnologias](#Tecnologias)
 
 ## <a name="Sobre"></a>
 
